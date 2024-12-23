@@ -1,6 +1,6 @@
 # Haiku-Generator
 
-Link: [Haiku Generator]([url](https://haikugenerator.vercel.app/))
+Link: [Haiku Generator]((https://haikugenerator.vercel.app/))
 
 A haiku generator built using Gemini 1.5 Flash, fine-tuned on a small dataset of prompt examples.
 
